@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pl="http://xml.theplatform.com/data/object" xmlns:pllist="http://xml.theplatform.com/data/list" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:plrelease="http://xml.theplatform.com/media/data/Release" xmlns:plfile="http://xml.theplatform.com/media/data/MediaFile" xmlns:pla="http://xml.theplatform.com/data/object/admin" xmlns:plmedia="http://xml.theplatform.com/media/data/Media" xmlns:pl1="http://access.auth.theplatform.com/data/Account/2189563080" xmlns:pl2="http://xfinitytv.com/namespaces/theplatform/ingest" version="2.0">
+  <channel>
+    <title>Today's Top Videos</title>
+    <link>http://xfinity.comcast.net/f/P_bgCC/TopVideos</link>
+    <description>Today's Top Videos</description>
+    <os:startIndex>1</os:startIndex>
+    <os:itemsPerPage>20</os:itemsPerPage>
+    <pllist:entryCount>20</pllist:entryCount>
+    <author>Tom</author>
+    <item>
+      <pl:id>http://data.media.theplatform.com/media/data/Media/383877699784</pl:id>
+      <link>appmanager:launchApplicationURL#appURL=xre%3A%2F%2Fchariot-ga.xreapps.net%3A14013%2Fchariot%3FsamlAssertion%3D%7BATTR%3Atoken%7D%26timeZone%3D%7BAPP%3AtimeZone%7D%26sessionId%3D%7BAPP%3AsessionId%7D%26deviceId%3D%7BAPP%3AdeviceId%7D%26accountId%3D%7BAPP%3AaccountId%7D%26config.type%3Dbase64%26config.base64%3DeyJhcHBOYW1lIjoiVG9kYXkgSW4gVmlkZW8iLCJzaG93VG9hc3RlciI6dHJ1ZSwiZGlzYWJsZVNjcmVlbnNhdmVyIjp0cnVlLCJjb250cm9sbGVyVHlwZSI6Imh0bWwiLCJodG1sQnJvd3NlclR5cGUiOiJEZWZhdWx0IiwibXV0ZVBsYXllciI6dHJ1ZSwidHRsIjo1LCJwbGF5ZXJDb25maWciOnsiaGVpZ2h0IjowLCJ3aWR0aCI6MCwieSI6NzIwLCJ4IjoxMjgwfSwibWltZVR5cGUiOiJ0ZXh0L2h0bWwiLCJ1cmwiOiJodHRwOi8vcWEzc3RhdGljLmNpbWNvbnRlbnQubmV0L3N0YXRpY3NpdGVzL3gxLXRvZGF5LWluLXZpZGVvL2luZGV4Lmh0bWw_dmlkZW89Mzg0MTU5Mjk5Njc1In0=</link>
+      <guid isPermaLink="false">AP_urn:publicid:ap.org:d0caed7e17b6483ba69b83f06a4aa02a</guid>
+      <title>Jackie O's Letters to Designers Being Auctioned</title>
+      <description>The stylish former first lady Jacqueline Kennedy Onassis' notes to designers are being auctioned in Florida. (Jan. 13)</description>
+      <author/>
+      <pl:ownerId>http://access.auth.theplatform.com/data/Account/2189541263</pl:ownerId>
+      <pl:added>Tue, 13 Jan 2015 22:55:51 GMT</pl:added>
+      <pl:updated>Tue, 13 Jan 2015 23:09:18 GMT</pl:updated>
+      <pl:updatedByUserId>https://identity.auth.theplatform.com/idm/data/User/mps/1626326753</pl:updatedByUserId>
+      <pl:locked>false</pl:locked>
+      <media:category scheme="" label="">news</media:category>
+      <media:category scheme="" label="">search</media:category>
+      <media:category scheme="" label="">Comcast</media:category>
+      <media:keywords/>
+      <media:rating scheme="urn:mpaa">pg-13</media:rating>
+      <media:rating scheme="urn:v-chip">tv-pg</media:rating>
+      <media:restriction relationship="allow" type="country">US UM VI</media:restriction>
+      <media:group>
+        <media:content channels="2" samplingrate="44.1" bitrate="1065.441" medium="video" duration="36.236" expression="full" fileSize="4830443" framerate="29.97" type="video/mp4" height="480" isDefault="false" lang="en" url="http://link.theplatform.com/s/P_bgCC/_baUxUi0hH_z?feed=Today%27s%20Top%20Videos" width="856">
+          <media:hash algo="md5">1F5923101AF0746CD0C21E8B3D65BAAD</media:hash>
+          <plfile:release>
+            <plrelease:pid>_baUxUi0hH_z</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/_baUxUi0hH_z</plrelease:url>
+          </plfile:release>
+        </media:content>
+        <media:content bitrate="1033.502" medium="video" duration="36.236" expression="full" fileSize="4680636" type="application/x-mpegURL" height="360" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/OF91SS_eUmHU?feed=Today%27s%20Top%20Videos" width="640">
+          <plfile:release>
+            <plrelease:pid>OF91SS_eUmHU</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/OF91SS_eUmHU</plrelease:url>
+          </plfile:release>
+        </media:content>
+        <media:content bitrate="1033.502" medium="video" duration="36.236" expression="full" fileSize="4680636" type="application/f4m+xml" height="360" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/tBLsCmHuJQkd?feed=Today%27s%20Top%20Videos" width="640">
+          <plfile:release>
+            <plrelease:pid>tBLsCmHuJQkd</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/tBLsCmHuJQkd</plrelease:url>
+          </plfile:release>
+        </media:content>
+      </media:group>
+      <media:thumbnail expression="full" fileSize="1839" type="image/jpeg" height="75" isDefault="true" url="http://media4.comcast.net/thumbnails/OPUS/527/311/US_FL_JACKIE_LETTERS_20150113cr_x080n_100x75_383881795944.jpg" width="100">
+        <media:hash algo="md5">E4093F8FBBC61432E4973091A769EA63</media:hash>
+      </media:thumbnail>
+      <media:thumbnail expression="full" fileSize="9473" type="image/jpeg" height="333" isDefault="false" url="http://media4.comcast.net/thumbnails/OPUS/527/311/US_FL_JACKIE_LETTERS_20150113cr_x080n_444x333_383881795947.jpg" width="444">
+        <media:hash algo="md5">7697E16498697A87E55A59B892A8033D</media:hash>
+      </media:thumbnail>
+      <media:thumbnail expression="full" fileSize="7693" type="image/jpeg" height="219" isDefault="false" url="http://media4.comcast.net/thumbnails/OPUS/527/311/US_FL_JACKIE_LETTERS_20150113cr_x080n_292x219_383881795949.jpg" width="292">
+        <media:hash algo="md5">E9ABB9E5CB32D3C7E5CC9C1B3D3F101B</media:hash>
+      </media:thumbnail>
+      <plmedia:approved>true</plmedia:approved>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/32037502</plmedia:categoryId>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/32052511</plmedia:categoryId>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/1600579625</plmedia:categoryId>
+      <pubDate>Tue, 13 Jan 2015 22:55:52 GMT</pubDate>
+      <plmedia:defaultThumbnailUrl>http://media4.comcast.net/thumbnails/OPUS/527/311/US_FL_JACKIE_LETTERS_20150113cr_x080n_100x75_383881795944.jpg</plmedia:defaultThumbnailUrl>
+      <plmedia:provider>AP</plmedia:provider>
+      <plmedia:providerId>http://data.media.theplatform.com/media/data/Provider/32050682</plmedia:providerId>
+      <plmedia:restrictionId/>
+      <plmedia:adPolicyId/>
+      <pl2:Entitled_Provider>free</pl2:Entitled_Provider>
+      <pl2:adCategory>News:General</pl2:adCategory>
+      <pl2:adult>nonAdult</pl2:adult>
+      <pl2:brand>AP</pl2:brand>
+      <pl2:contentid>0b80ea22-ff97-4913-985a-047e299d62da</pl2:contentid>
+      <pl2:eligiblePlatforms>XFN</pl2:eligiblePlatforms>
+      <pl2:embeddable>true</pl2:embeddable>
+      <pl2:episodeidtype/>
+      <pl2:ingestclosedcaptionflag>false</pl2:ingestclosedcaptionflag>
+      <pl2:lastingestionstatus>UNPROCESSED</pl2:lastingestionstatus>
+      <pl2:movieidtype/>
+      <pl2:notestocomcast/>
+      <pl2:parentcompany>AP</pl2:parentcompany>
+      <pl2:payloadlastingested>Tue, 13 Jan 2015 23:03:47 GMT</pl2:payloadlastingested>
+      <pl2:sdOnly>No</pl2:sdOnly>
+      <pl2:seasonidtype/>
+      <pl2:seriesid/>
+      <pl2:seriesidtype/>
+      <pl2:xtvcategory/>
+      <pl2:xtvepisodeidtype/>
+      <pl2:xtvmovieidtype/>
+      <pl2:xtvseasonidtype/>
+      <pl2:xtvseriesidtype/>
+    </item>
+    <item>
+      <pl:id>http://data.media.theplatform.com/media/data/Media/383724099726</pl:id>
+      <link>appmanager:launchApplicationURL#appURL=xre%3A%2F%2Fchariot-ga.xreapps.net%3A14013%2Fchariot%3FsamlAssertion%3D%7BATTR%3Atoken%7D%26timeZone%3D%7BAPP%3AtimeZone%7D%26sessionId%3D%7BAPP%3AsessionId%7D%26deviceId%3D%7BAPP%3AdeviceId%7D%26accountId%3D%7BAPP%3AaccountId%7D%26config.type%3Dbase64%26config.base64%3DeyJhcHBOYW1lIjoiVG9kYXkgSW4gVmlkZW8iLCJzaG93VG9hc3RlciI6dHJ1ZSwiZGlzYWJsZVNjcmVlbnNhdmVyIjp0cnVlLCJjb250cm9sbGVyVHlwZSI6Imh0bWwiLCJodG1sQnJvd3NlclR5cGUiOiJEZWZhdWx0IiwibXV0ZVBsYXllciI6dHJ1ZSwidHRsIjo1LCJwbGF5ZXJDb25maWciOnsiaGVpZ2h0IjowLCJ3aWR0aCI6MCwieSI6NzIwLCJ4IjoxMjgwfSwibWltZVR5cGUiOiJ0ZXh0L2h0bWwiLCJ1cmwiOiJodHRwOi8vcWEzc3RhdGljLmNpbWNvbnRlbnQubmV0L3N0YXRpY3NpdGVzL3gxLXRvZGF5LWluLXZpZGVvL2luZGV4Lmh0bWw_dmlkZW89Mzg0MTU5Mjk5Njc1In0=</link>
+      <guid isPermaLink="false">J4hgKuS3qOr54ZTOxvYycSDF79Klbign</guid>
+      <title>Zooey Deschanel's Expecting Baby No.1!</title>
+      <description>Surprise! There must be something in the water in Hollywood because Zooey Deschanel is pregnant for the first time. The actress and her boyfriend Jacob Pechenik are over the moon and excited to be parents, but they will have to wait until the summer when the baby is due. We can't wait to see how Zooey styles her baby bump throughout her pregnancy. The mama-to-be even has a pregnancy buddy her sister Emily Deschanel. Check out the video for more baby details!</description>
+      <author>Intersport Inc</author>
+      <pl:ownerId>http://access.auth.theplatform.com/data/Account/2189541263</pl:ownerId>
+      <pl:added>Tue, 13 Jan 2015 17:41:46 GMT</pl:added>
+      <pl:updated>Tue, 13 Jan 2015 18:05:33 GMT</pl:updated>
+      <pl:updatedByUserId>https://identity.auth.theplatform.com/idm/data/User/mpx/2633203</pl:updatedByUserId>
+      <pl:locked>false</pl:locked>
+      <dcterms:valid>start=2015-01-13T06:00:00Z;end=2015-07-13T05:00:00Z;scheme=W3C-DTF</dcterms:valid>
+      <media:category scheme="" label="">entertainment</media:category>
+      <media:category scheme="" label="">search</media:category>
+      <media:category scheme="" label="">Comcast</media:category>
+      <media:copyright>2014 Intersport Inc.</media:copyright>
+      <media:keywords/>
+      <media:rating scheme="urn:mpaa">g</media:rating>
+      <media:restriction relationship="allow" type="country">US UM VI</media:restriction>
+      <media:group>
+        <media:content channels="2" samplingrate="48" bitrate="1996.597" medium="video" duration="39.072" expression="full" fileSize="9754127" framerate="29.97" type="video/mp4" height="720" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/CyHZ_0oLenSM?feed=Today%27s%20Top%20Videos" width="1280">
+          <media:hash algo="md5">7327799F02C7F73966E012BC9FF1A649</media:hash>
+          <plfile:release>
+            <plrelease:pid>CyHZ_0oLenSM</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/CyHZ_0oLenSM</plrelease:url>
+          </plfile:release>
+        </media:content>
+        <media:content bitrate="6656.289" medium="video" duration="39.072" expression="full" fileSize="32550320" type="application/x-mpegURL" height="1080" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/mM_S0ciw8vWu?feed=Today%27s%20Top%20Videos" width="1920">
+          <plfile:release>
+            <plrelease:pid>mM_S0ciw8vWu</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/mM_S0ciw8vWu</plrelease:url>
+          </plfile:release>
+        </media:content>
+        <media:content bitrate="6656.289" medium="video" duration="39.072" expression="full" fileSize="32550320" type="application/f4m+xml" height="1080" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/neiBCspv9vDZ?feed=Today%27s%20Top%20Videos" width="1920">
+          <plfile:release>
+            <plrelease:pid>neiBCspv9vDZ</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/neiBCspv9vDZ</plrelease:url>
+          </plfile:release>
+        </media:content>
+      </media:group>
+      <media:thumbnail expression="full" fileSize="18115" type="image/jpeg" height="333" isDefault="false" url="http://media4.comcast.net/thumbnails/OPUS/380/839/01_13_15_02_100x75_100x75_383723587640_444x333_383724611822.jpg" width="444">
+        <media:hash algo="md5">C18EF031DA86B148FF2AA90931FA17F8</media:hash>
+      </media:thumbnail>
+      <media:thumbnail expression="full" fileSize="10679" type="image/jpeg" height="219" isDefault="false" url="http://media4.comcast.net/thumbnails/OPUS/380/839/01_13_15_V1_02_FAMILY_MPX_292x219_383724611823.jpg" width="292">
+        <media:hash algo="md5">BF8722A749EDF437DECE09971E754620</media:hash>
+      </media:thumbnail>
+      <media:thumbnail expression="full" fileSize="3428" type="image/jpeg" height="75" isDefault="true" url="http://media4.comcast.net/thumbnails/OPUS/380/839/01_13_15_02_100x75_100x75_383723587640.jpg" width="100">
+        <media:hash algo="md5">0AD0BBA492BFAC596B6596FAC8F32809</media:hash>
+      </media:thumbnail>
+      <pla:adminTag>Family</pla:adminTag>
+      <plmedia:approved>true</plmedia:approved>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/32037452</plmedia:categoryId>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/32052511</plmedia:categoryId>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/1600579625</plmedia:categoryId>
+      <pubDate>Tue, 13 Jan 2015 17:28:29 GMT</pubDate>
+      <plmedia:defaultThumbnailUrl>http://media4.comcast.net/thumbnails/OPUS/380/839/01_13_15_02_100x75_100x75_383723587640.jpg</plmedia:defaultThumbnailUrl>
+      <plmedia:originalOwnerId>http://access.auth.theplatform.com/data/Account/2272324374</plmedia:originalOwnerId>
+      <plmedia:provider>CelebTV</plmedia:provider>
+      <plmedia:providerId>http://data.media.theplatform.com/media/data/Provider/32050675</plmedia:providerId>
+      <plmedia:restrictionId/>
+      <plmedia:adPolicyId/>
+      <plmedia:originalMediaId>http://data.media.theplatform.com/media/data/Media/383716419812</plmedia:originalMediaId>
+      <pl2:Entitled_Provider>free</pl2:Entitled_Provider>
+      <pl2:adCategory>Entertainment:General</pl2:adCategory>
+      <pl2:adult>nonAdult</pl2:adult>
+      <pl2:brand>CelebTV</pl2:brand>
+      <pl2:contentid>f0be4ddb-6645-430e-a350-7bac529e472a</pl2:contentid>
+      <pl2:eligiblePlatforms>XTV</pl2:eligiblePlatforms>
+      <pl2:eligiblePlatforms>XFN</pl2:eligiblePlatforms>
+      <pl2:embeddable>true</pl2:embeddable>
+      <pl2:episodeidtype/>
+      <pl2:ingestclosedcaptionflag>false</pl2:ingestclosedcaptionflag>
+      <pl2:lastingestionstatus>UNPROCESSED</pl2:lastingestionstatus>
+      <pl2:movieidtype/>
+      <pl2:notestocomcast/>
+      <pl2:parentcompany>CelebTV</pl2:parentcompany>
+      <pl2:payloadlastingested>Tue, 13 Jan 2015 17:46:11 GMT</pl2:payloadlastingested>
+      <pl2:sdOnly>No</pl2:sdOnly>
+      <pl2:seasonidtype/>
+      <pl2:seriesid/>
+      <pl2:seriesidtype/>
+      <pl2:xtvcategory>TV News</pl2:xtvcategory>
+      <pl2:xtvepisodeidtype/>
+      <pl2:xtvmovieidtype/>
+      <pl2:xtvseasonidtype/>
+      <pl2:xtvseriesid>7964745431482661112</pl2:xtvseriesid>
+      <pl2:xtvseriesidtype>cPlatform</pl2:xtvseriesidtype>
+    </item>
+    <item>
+      <pl:id>http://data.media.theplatform.com/media/data/Media/383646275895</pl:id>
+      <link>appmanager:launchApplicationURL#appURL=xre%3A%2F%2Fchariot-ga.xreapps.net%3A14013%2Fchariot%3FsamlAssertion%3D%7BATTR%3Atoken%7D%26timeZone%3D%7BAPP%3AtimeZone%7D%26sessionId%3D%7BAPP%3AsessionId%7D%26deviceId%3D%7BAPP%3AdeviceId%7D%26accountId%3D%7BAPP%3AaccountId%7D%26config.type%3Dbase64%26config.base64%3DeyJhcHBOYW1lIjoiVG9kYXkgSW4gVmlkZW8iLCJzaG93VG9hc3RlciI6dHJ1ZSwiZGlzYWJsZVNjcmVlbnNhdmVyIjp0cnVlLCJjb250cm9sbGVyVHlwZSI6Imh0bWwiLCJodG1sQnJvd3NlclR5cGUiOiJEZWZhdWx0IiwibXV0ZVBsYXllciI6dHJ1ZSwidHRsIjo1LCJwbGF5ZXJDb25maWciOnsiaGVpZ2h0IjowLCJ3aWR0aCI6MCwieSI6NzIwLCJ4IjoxMjgwfSwibWltZVR5cGUiOiJ0ZXh0L2h0bWwiLCJ1cmwiOiJodHRwOi8vcWEzc3RhdGljLmNpbWNvbnRlbnQubmV0L3N0YXRpY3NpdGVzL3gxLXRvZGF5LWluLXZpZGVvL2luZGV4Lmh0bWw_dmlkZW89Mzg0MTU5Mjk5Njc1In0=</link>
+      <guid isPermaLink="false">NBCU-NBCNews_56773984</guid>
+      <title>Flower girl, ring bearer wed 20 years later</title>
+      <description>Twenty years ago, as tots, a flower girl and ring bearer walked down an aisle in Minnesota. They went their separate ways, but fate reunited them in a ninth-grade classroom. Now, two years later, they are a couple.</description>
+      <author/>
+      <pl:ownerId>http://access.auth.theplatform.com/data/Account/2189541263</pl:ownerId>
+      <pl:added>Tue, 13 Jan 2015 14:01:10 GMT</pl:added>
+      <pl:updated>Tue, 13 Jan 2015 14:31:28 GMT</pl:updated>
+      <pl:updatedByUserId>https://identity.auth.theplatform.com/idm/data/User/mps/1827684484</pl:updatedByUserId>
+      <pl:locked>false</pl:locked>
+      <dcterms:valid>start=2015-01-13T13:46:00Z;end=2015-01-20T13:46:00Z;scheme=W3C-DTF</dcterms:valid>
+      <media:category scheme="" label="">news</media:category>
+      <media:category scheme="" label="">search</media:category>
+      <media:category scheme="" label="">Comcast</media:category>
+      <media:keywords/>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
+      <media:restriction relationship="allow" type="country">US UM VI</media:restriction>
+      <media:group>
+        <media:content channels="2" samplingrate="44.1" bitrate="1000" medium="video" duration="29" expression="sample" fileSize="4187432" framerate="29.97" type="video/mp4" height="360" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/RSFdnqLuewYz?feed=Today%27s%20Top%20Videos" width="640">
+          <media:hash algo="md5">8E818B30103642A042FD8F00D51E412A</media:hash>
+          <plfile:release>
+            <plrelease:pid>RSFdnqLuewYz</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/RSFdnqLuewYz</plrelease:url>
+          </plfile:release>
+        </media:content>
+        <media:content bitrate="1033.502" medium="video" duration="29.029" expression="full" fileSize="3751728" type="application/f4m+xml" height="360" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/RV21Vt4Nw_cU?feed=Today%27s%20Top%20Videos" width="640">
+          <plfile:release>
+            <plrelease:pid>RV21Vt4Nw_cU</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/RV21Vt4Nw_cU</plrelease:url>
+          </plfile:release>
+        </media:content>
+        <media:content bitrate="1033.502" medium="video" duration="29.029" expression="full" fileSize="3751728" type="application/x-mpegURL" height="360" isDefault="false" url="http://link.theplatform.com/s/P_bgCC/d2tsXyzwFhuB?feed=Today%27s%20Top%20Videos" width="640">
+          <plfile:release>
+            <plrelease:pid>d2tsXyzwFhuB</plrelease:pid>
+            <plrelease:url>http://link.theplatform.com/s/P_bgCC/d2tsXyzwFhuB</plrelease:url>
+          </plfile:release>
+        </media:content>
+      </media:group>
+      <media:thumbnail expression="full" fileSize="14511" type="image/jpeg" height="333" isDefault="false" url="http://media4.comcast.net/thumbnails/OPUS/306/615/tdy_mor_wedding_150113.video-100x75_444x333_383645763970.jpg" width="444">
+        <media:hash algo="md5">9E741EE1364935467FE6553FBA095312</media:hash>
+      </media:thumbnail>
+      <media:thumbnail expression="full" fileSize="11787" type="image/jpeg" height="219" isDefault="false" url="http://media4.comcast.net/thumbnails/OPUS/306/615/tdy_mor_wedding_150113_292x219_383645763973.jpg" width="292">
+        <media:hash algo="md5">D57ED9CF0B19B7AFCE2CF5A1280545C0</media:hash>
+      </media:thumbnail>
+      <media:thumbnail expression="full" fileSize="2558" type="image/jpeg" height="75" isDefault="true" url="http://media4.comcast.net/thumbnails/OPUS/306/615/tdy_mor_wedding_150113.video-100x75.jpg" width="100">
+        <media:hash algo="md5">8FCA5E017BCA61937242A1362751C5D7</media:hash>
+      </media:thumbnail>
+      <plmedia:approved>true</plmedia:approved>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/32037502</plmedia:categoryId>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/32052511</plmedia:categoryId>
+      <plmedia:categoryId>http://data.media.theplatform.com/media/data/Category/1600579625</plmedia:categoryId>
+      <link>http://www.nbcnews.com/id/21134540/vp/56773984#56773984</link>
+      <pubDate>Tue, 13 Jan 2015 13:46:41 GMT</pubDate>
+      <plmedia:defaultThumbnailUrl>http://media4.comcast.net/thumbnails/OPUS/306/615/tdy_mor_wedding_150113.video-100x75.jpg</plmedia:defaultThumbnailUrl>
+      <plmedia:provider>NBCU-NBCNews</plmedia:provider>
+      <plmedia:providerId>http://data.media.theplatform.com/media/data/Provider/32050640</plmedia:providerId>
+      <plmedia:restrictionId/>
+      <plmedia:adPolicyId/>
+      <pl2:Entitled_Provider>free</pl2:Entitled_Provider>
+      <pl2:adCategory>News:General</pl2:adCategory>
+      <pl2:adult>nonAdult</pl2:adult>
+      <pl2:brand>TODAY</pl2:brand>
+      <pl2:contentid>0ebcaaec-9ee0-4ee5-a55d-48d06620fa90</pl2:contentid>
+      <pl2:eligiblePlatforms>XFN</pl2:eligiblePlatforms>
+      <pl2:embeddable>true</pl2:embeddable>
+      <pl2:episodeidtype/>
+      <pl2:ingestclosedcaptionflag>false</pl2:ingestclosedcaptionflag>
+      <pl2:lastingestionstatus>UNPROCESSED</pl2:lastingestionstatus>
+      <pl2:movieidtype/>
+      <pl2:notestocomcast/>
+      <pl2:parentcompany>NBCUniversal</pl2:parentcompany>
+      <pl2:payloadlastingested>Tue, 13 Jan 2015 14:03:41 GMT</pl2:payloadlastingested>
+      <pl2:sdOnly>No</pl2:sdOnly>
+      <pl2:seasonidtype/>
+      <pl2:seriesid/>
+      <pl2:seriesidtype/>
+      <pl2:xtvcategory/>
+      <pl2:xtvepisodeidtype/>
+      <pl2:xtvmovieidtype/>
+      <pl2:xtvseasonidtype/>
+      <pl2:xtvseriesidtype/>
+    </item>
+  </channel>
+</rss>
